@@ -10,16 +10,15 @@ namespace LoveHeart.Domain.Menu
         public static void DrawMenu(List<IUser> users)
         {
             var user = LogInMenu(users);
-            
             Console.Clear();
             
-            Console.WriteLine($"Welcome {user.FirstName} {user.LastName}");
+            Utils.RedAlert($"Welcome {user.FirstName} {user.LastName}");
         }
+        
+        
 
         private static IUser LogInMenu(List<IUser> users)
         {
-            
-
             while (true)
             {
                 
@@ -35,9 +34,7 @@ namespace LoveHeart.Domain.Menu
                         return user;
                     }
                     Console.Clear();
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Please enter correct Username and Password");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Utils.RedAlert("Please enter correct Username and Password");
                 }
             }
         }

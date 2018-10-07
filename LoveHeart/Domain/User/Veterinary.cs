@@ -14,6 +14,6 @@ namespace LoveHeart.Domain.User
         public string LastName { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
-        public string AccessRight { get; } = "Vet";
+        public string AccessRight { get; } = "vet";
     }
 }

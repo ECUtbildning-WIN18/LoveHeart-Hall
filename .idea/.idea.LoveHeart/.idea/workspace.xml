@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c86e12e8-3a90-4c7b-b08e-fdcce8b7cf11" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/LoveHeart/Domain/Menu/MenuItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoveHeart/Domain/Users.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoveHeart/Domain/Utils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LoveHeart/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoveHeart/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoveHeart/Domain/Menu/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoveHeart/Domain/Menu/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoveHeart/Domain/User/Admin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoveHeart/Domain/User/Admin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoveHeart/Domain/User/Receptionist.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoveHeart/Domain/User/Receptionist.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoveHeart/Domain/User/Veterinary.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LoveHeart/Domain/User/Veterinary.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1853160966">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="4541" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="4541" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Program.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+                  <folding>
+                    <marker date="1538914405003" expanded="false" signature="6:100" ph="..." />
+                    <marker date="1538914405003" expanded="true" signature="121:716" ph="{...}" />
+                    <marker date="1538914405003" expanded="true" signature="150:714" ph="{...}" />
+                    <marker date="1538914405003" expanded="true" signature="203:708" ph="{...}" />
+                    <marker date="1538914405003" expanded="true" signature="313:392" ph="{...}" />
+                    <marker date="1538914405003" expanded="true" signature="509:588" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Admin.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+                  <folding>
+                    <marker date="1538909197220" expanded="true" signature="61:652" ph="{...}" />
+                    <marker date="1538909197220" expanded="true" signature="94:650" ph="{...}" />
+                    <marker date="1538909197220" expanded="true" signature="190:344" ph="{...}" />
+                    <marker date="1538909197220" expanded="true" signature="611:644" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Users.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="543">
+                  <caret line="98" column="27" lean-forward="true" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+                  <folding>
+                    <marker date="1538914635943" expanded="true" signature="6:145" ph="..." />
+                    <marker date="1538914635943" expanded="true" signature="173:3796" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="198:3794" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="275:497" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="547:596" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="634:3788" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="669:3778" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="1812:1977" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="2058:3764" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="2228:2329" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="2351:2451" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="2493:2591" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="2900:3470" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="2963:3106" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="3128:3278" ph="{...}" />
+                    <marker date="1538914635943" expanded="true" signature="3300:3448" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Veterinary.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+                  <folding>
+                    <marker date="1538907616828" expanded="true" signature="31:566" ph="{...}" />
+                    <marker date="1538907616828" expanded="true" signature="69:564" ph="{...}" />
+                    <marker date="1538907616828" expanded="true" signature="170:324" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Receptionist.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+                  <folding>
+                    <marker date="1538907570475" expanded="true" signature="26:567" ph="{...}" />
+                    <marker date="1538907570475" expanded="true" signature="66:565" ph="{...}" />
+                    <marker date="1538907570475" expanded="true" signature="169:323" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Utils.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+                  <folding>
+                    <marker date="1538913912269" expanded="true" signature="41:1433" ph="{...}" />
+                    <marker date="1538913912269" expanded="true" signature="75:1431" ph="{...}" />
+                    <marker date="1538913912269" expanded="true" signature="138:317" ph="{...}" />
+                    <marker date="1538913912269" expanded="true" signature="439:1425" ph="{...}" />
+                    <marker date="1538913912269" expanded="true" signature="547:1348" ph="{...}" />
+                    <marker date="1538913912269" expanded="true" signature="682:1117" ph="{...}" />
+                    <marker date="1538913912269" expanded="true" signature="1171:1334" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Menu/MenuItem.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+                  <folding>
+                    <marker date="1538908291752" expanded="true" signature="31:185" ph="{...}" />
+                    <marker date="1538908291752" expanded="true" signature="59:183" ph="{...}" />
+                    <marker date="1538908291752" expanded="true" signature="135:168" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Menu/Menu.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+                  <folding>
+                    <marker date="1538908085981" expanded="false" signature="6:66" ph="..." />
+                    <marker date="1538908085981" expanded="true" signature="99:1182" ph="{...}" />
+                    <marker date="1538908085981" expanded="true" signature="123:1180" ph="{...}" />
+                    <marker date="1538908085981" expanded="true" signature="193:369" ph="{...}" />
+                    <marker date="1538908085981" expanded="true" signature="446:1174" ph="{...}" />
+                    <marker date="1538908085981" expanded="true" signature="481:1164" ph="{...}" />
+                    <marker date="1538908085981" expanded="true" signature="834:1150" ph="{...}" />
+                    <marker date="1538908085981" expanded="true" signature="932:1013" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Interfaces/IUser.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                  <folding>
+                    <marker date="1538662839812" expanded="true" signature="26:258" ph="{...}" />
+                    <marker date="1538662839812" expanded="true" signature="55:256" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Interfaces/IUser.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                  <folding>
+                    <marker date="1538662839812" expanded="true" signature="26:258" ph="{...}" />
+                    <marker date="1538662839812" expanded="true" signature="55:256" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Builder.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+                  <folding>
+                    <marker date="1538909675115" expanded="false" signature="6:62" ph="..." />
+                    <marker date="1538909675115" expanded="true" signature="90:507" ph="{...}" />
+                    <marker date="1538909675115" expanded="true" signature="117:505" ph="{...}" />
+                    <marker date="1538909675115" expanded="true" signature="183:405" ph="{...}" />
+                    <marker date="1538909675115" expanded="true" signature="452:498" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/Menu/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Admin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/Interfaces/IUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/Users.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/Builder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Receptionist.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/Menu/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Veterinary.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/User.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/IUser.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Admin.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/User/Vetrinary.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Interfaces/IUser.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/User/Veterinary.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/User/Receptionist.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Menu/Menu.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Menu/MenuItem.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/User/Users.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/User/Admin.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Utils.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Builder.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Program.cs" />
+        <option value="$PROJECT_DIR$/LoveHeart/Domain/Users.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Menu" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LoveHeart" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="User" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LoveHeart/bin/Debug/LoveHeart.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LoveHeart/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LoveHeart/LoveHeart.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c86e12e8-3a90-4c7b-b08e-fdcce8b7cf11" name="Default Changelist" comment="" />
+      <created>1538655989466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538655989466</updated>
+      <workItem from="1538655991834" duration="3752000" />
+      <workItem from="1538661058050" duration="5156000" />
+      <workItem from="1538906973174" duration="7657000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1538669101917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538669101917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16565000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110341154" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20498915" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3264642" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3286334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Users.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Menu/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <marker date="1538908085981" expanded="false" signature="6:66" ph="..." />
+            <marker date="1538908085981" expanded="true" signature="99:1182" ph="{...}" />
+            <marker date="1538908085981" expanded="true" signature="123:1180" ph="{...}" />
+            <marker date="1538908085981" expanded="true" signature="193:369" ph="{...}" />
+            <marker date="1538908085981" expanded="true" signature="446:1174" ph="{...}" />
+            <marker date="1538908085981" expanded="true" signature="481:1164" ph="{...}" />
+            <marker date="1538908085981" expanded="true" signature="834:1150" ph="{...}" />
+            <marker date="1538908085981" expanded="true" signature="932:1013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Admin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <marker date="1538909197220" expanded="true" signature="61:652" ph="{...}" />
+            <marker date="1538909197220" expanded="true" signature="94:650" ph="{...}" />
+            <marker date="1538909197220" expanded="true" signature="190:344" ph="{...}" />
+            <marker date="1538909197220" expanded="true" signature="611:644" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Veterinary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <marker date="1538907616828" expanded="true" signature="31:566" ph="{...}" />
+            <marker date="1538907616828" expanded="true" signature="69:564" ph="{...}" />
+            <marker date="1538907616828" expanded="true" signature="170:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/User/Receptionist.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <marker date="1538907570475" expanded="true" signature="26:567" ph="{...}" />
+            <marker date="1538907570475" expanded="true" signature="66:565" ph="{...}" />
+            <marker date="1538907570475" expanded="true" signature="169:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Utils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <marker date="1538913912269" expanded="true" signature="41:1433" ph="{...}" />
+            <marker date="1538913912269" expanded="true" signature="75:1431" ph="{...}" />
+            <marker date="1538913912269" expanded="true" signature="138:317" ph="{...}" />
+            <marker date="1538913912269" expanded="true" signature="439:1425" ph="{...}" />
+            <marker date="1538913912269" expanded="true" signature="547:1348" ph="{...}" />
+            <marker date="1538913912269" expanded="true" signature="682:1117" ph="{...}" />
+            <marker date="1538913912269" expanded="true" signature="1171:1334" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Menu/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1538908291752" expanded="true" signature="31:185" ph="{...}" />
+            <marker date="1538908291752" expanded="true" signature="59:183" ph="{...}" />
+            <marker date="1538908291752" expanded="true" signature="135:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Interfaces/IUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1538662839812" expanded="true" signature="26:258" ph="{...}" />
+            <marker date="1538662839812" expanded="true" signature="55:256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Builder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1538909675115" expanded="false" signature="6:62" ph="..." />
+            <marker date="1538909675115" expanded="true" signature="90:507" ph="{...}" />
+            <marker date="1538909675115" expanded="true" signature="117:505" ph="{...}" />
+            <marker date="1538909675115" expanded="true" signature="183:405" ph="{...}" />
+            <marker date="1538909675115" expanded="true" signature="452:498" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <marker date="1538914405003" expanded="false" signature="6:100" ph="..." />
+            <marker date="1538914405003" expanded="true" signature="121:716" ph="{...}" />
+            <marker date="1538914405003" expanded="true" signature="150:714" ph="{...}" />
+            <marker date="1538914405003" expanded="true" signature="203:708" ph="{...}" />
+            <marker date="1538914405003" expanded="true" signature="313:392" ph="{...}" />
+            <marker date="1538914405003" expanded="true" signature="509:588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoveHeart/Domain/Users.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="98" column="27" lean-forward="true" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+          <folding>
+            <marker date="1538914635943" expanded="true" signature="6:145" ph="..." />
+            <marker date="1538914635943" expanded="true" signature="173:3796" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="198:3794" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="275:497" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="547:596" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="634:3788" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="669:3778" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="1812:1977" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="2058:3764" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="2228:2329" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="2351:2451" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="2493:2591" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="2900:3470" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="2963:3106" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="3128:3278" ph="{...}" />
+            <marker date="1538914635943" expanded="true" signature="3300:3448" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
